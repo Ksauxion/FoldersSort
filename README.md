@@ -1,4 +1,4 @@
-# FolderSort
+# FoldersSort
 A script which sorts all files in current directories and subdirectories in folders with its extensions.
 ## How to use
 ```
